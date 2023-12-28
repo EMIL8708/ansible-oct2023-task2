@@ -1,0 +1,5 @@
+[centos]
+vm2 ansible_host=104.236.199.223
+
+[ubuntu]
+vm6 ansible_host=68.183.61.9
