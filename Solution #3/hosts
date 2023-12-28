@@ -1,0 +1,5 @@
+[centos]
+vm4 ansible_host=138.197.78.2
+
+[ubuntu]
+vm8 ansible_host=104.236.70.234
