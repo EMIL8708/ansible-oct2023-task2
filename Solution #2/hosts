@@ -1,0 +1,5 @@
+[centos]
+vm3 ansible_host=104.236.199.225
+
+[ubuntu]
+vm7 ansible_host=104.236.70.186
